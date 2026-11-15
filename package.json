@@ -1,0 +1,1 @@
+{"description":"A live free-model aggregator: one server answering the OpenAI Chat Completions API and the Anthropic Messages API with real completions from the best-rated free OpenRouter models.","license":"MIT","name":"free-model-aggregator-02","private":true,"type":"module","version":"1.0.0"}
